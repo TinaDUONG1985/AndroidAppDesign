@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/admin/AndroidStudioProjects/AppDesign/app/src/main/res/layout/activity_drawer.xml" value="0.20208333333333334" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/AppDesign/app/src/main/res/layout/activity_home.xml" value="0.22" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/AppDesign/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/AppDesign/app/src/main/res/layout/activity_menu.xml" value="0.15625" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/AppDesign/app/src/main/res/layout/activity_navigator.xml" value="0.25" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/AppDesign/app/src/main/res/layout/fragment_chat.xml" value="0.20208333333333334" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/AppDesign/app/src/main/res/layout/fragment_favorite.xml" value="0.12182971014492754" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/AppDesign/app/src/main/res/layout/fragment_home.xml" value="0.22" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/AppDesign/app/src/main/res/layout/fragment_phone.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/AppDesign/app/src/main/res/layout/fragment_search.xml" value="0.12182971014492754" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/AppDesign/app/src/main/res/layout/home_action_bar.xml" value="0.25" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/AppDesign/app/src/main/res/menu/drawer_menu.xml" value="0.20208333333333334" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/AppDesign/app/src/main/res/menu/menu_design.xml" value="0.20208333333333334" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/AppDesign/app/src/main/res/menu/navigator_menu.xml" value="0.20208333333333334" />
+        <entry key="..\:/Users/nguye/SynologyDrive/FORT2021/FormationCDA2021/DevAndroid/Doc Du 30-11-2021/AppDesign/app/src/main/res/layout/activity_drawer.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/nguye/SynologyDrive/FORT2021/FormationCDA2021/DevAndroid/Doc Du 30-11-2021/AppDesign/app/src/main/res/layout/activity_home.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/nguye/SynologyDrive/FORT2021/FormationCDA2021/DevAndroid/Doc Du 30-11-2021/AppDesign/app/src/main/res/layout/activity_main.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/nguye/SynologyDrive/FORT2021/FormationCDA2021/DevAndroid/Doc Du 30-11-2021/AppDesign/app/src/main/res/layout/activity_menu.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/nguye/SynologyDrive/FORT2021/FormationCDA2021/DevAndroid/Doc Du 30-11-2021/AppDesign/app/src/main/res/layout/activity_navigator.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/nguye/SynologyDrive/FORT2021/FormationCDA2021/DevAndroid/Doc Du 30-11-2021/AppDesign/app/src/main/res/layout/fragment_chat.xml" value="0.20520833333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
